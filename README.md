@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMIRTHAVARSHINIS-B
-- 👀 I’m interested in UI/UX designing
-- 🌱 I’m currently learning front end development
+- 👀 I’m interested in web based projects
+- 🌱 I’m currently learning front end 
 - 📫 How to reach me :
 - you can email me  at amirthvarshini.ec20@bitsathy.ac.in
 

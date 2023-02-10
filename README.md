@@ -2,7 +2,7 @@
 - 👀 I’m interested in web based projects
 - 🌱 I’m currently learning front end 
 - 📫 How to reach me :
-- you can email me  at amirthvarshini.ec20@bitsathy.ac.in
+- you can email me  at amirthavarshini.ec20@bitsathy.ac.in
 
 <!---
 AMIRTHAVARSHINIS-B/AMIRTHAVARSHINIS-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
